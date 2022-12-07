@@ -4,7 +4,7 @@ Hey there! I solved yet another problem on Kaggle which is Digit Recognizer.
 
 I solved it using two classifiers
 
-1. I user simple Neural Network :
+1. I used simple Neural Network :
       Activation Function -> Sigmoid
 2. I used Decsion tree Classifier:
       accuracy -> around 80% on kaggle
